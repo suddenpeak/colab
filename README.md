@@ -63,4 +63,5 @@ An alternative to enabling third-party cookies for all sites is to whitelist the
 - https://github.com/rois-codh/kmnist
 
 ## Links for Computer Vision
-- https://lodev.org/cgtutor/filtering.html
+- Filters https://lodev.org/cgtutor/filtering.html
+- Scipy   https://docs.scipy.org/doc/scipy/reference/index.html
