@@ -61,3 +61,6 @@ An alternative to enabling third-party cookies for all sites is to whitelist the
 ## Links to datasets
 - https://github.com/zalandoresearch/fashion-mnist
 - https://github.com/rois-codh/kmnist
+
+## Links for Computer Vision
+- https://lodev.org/cgtutor/filtering.html
