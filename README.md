@@ -2,9 +2,11 @@
 
 ## Colaboratory Frequently Asked Questions
 
+
 ### What is Colaboratory?
 
 Colaboratory is a research tool for machine learning education and research. It’s a Jupyter notebook environment that requires no setup to use.
+
 
 ### What browsers are supported?
 
@@ -83,6 +85,7 @@ An alternative to enabling third-party cookies for all sites is to whitelist the
 ## Links Algorithms
 
 - https://gombru.github.io/2018/05/23/cross_entropy_loss/
+- https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
 
 
 ## Links for Computer Vision
