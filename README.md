@@ -62,6 +62,9 @@ An alternative to enabling third-party cookies for all sites is to whitelist the
 - https://github.com/zalandoresearch/fashion-mnist
 - https://github.com/rois-codh/kmnist
 
+## Links Algorithms
+- https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
 ## Links for Computer Vision
 - Filters https://lodev.org/cgtutor/filtering.html
 - Scipy   https://docs.scipy.org/doc/scipy/reference/index.html
